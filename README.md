@@ -5,7 +5,7 @@
 A developer passionate about cybersecurity and committed to self-improvement.
 
 - 🌍 I'm based in London.
-- 🌱 I’m currently learning cybersecurity.
+- 🌱 I’m currently professionalising in cybersecurity.
 - 📫 You can reach me: ozgunefe@gmail.com
 
 # 
